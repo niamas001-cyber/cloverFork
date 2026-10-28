@@ -8,7 +8,9 @@ I am a Northeast Lakeview College graduate earning her bachelors' in CyberSecuri
 ## 🎉 Interests
 ![Krita](https://img.shields.io/badge/Krita-FE16EA?logo=drawing&logoColor=white)
 ![Tiktok](https://img.shields.io/badge/Tiktok-16FAFE?logo=tiktok&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-FFCCF4?logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-FFCCF4?logo=instagram&logoColor=white)](https://www.instagram.com/nahomie_durp/)
+![Discord](https://img.shields.io/badge/Discord-B152FF?logo=discord&logoColor=white)
+[![Pinterest](https://img.shields.io/badge/Pinterest-FF0066?logo=pinterest&logoColor=white)](https://www.pinterest.com/Lamiure001/)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/niamas001-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahama-massieu)
